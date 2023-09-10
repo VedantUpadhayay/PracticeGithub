@@ -4,3 +4,5 @@ Ciggrates
 anything other than woman.
 This is just a simple commit to arise a merge conflicts form main.
 After the succesfull resolution the commits from movies will also be visible here.
+Reading books
+Writing anyhting to arise merge conflicts in pull
